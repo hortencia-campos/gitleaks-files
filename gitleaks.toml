@@ -171,7 +171,8 @@ description = "global allow lists"
 		"Twitter\\\\\\\\Image_Helper' =\u003e 'getImageHelper4Service'",
 		"Secret\u0000:json:\\\"SessionAccessKeySecret\\\"",
 		"654321",
-        "senha"
+        "senha",
+		"MVNW_PASSWORD"
 	]
 	
 [[rules]]
