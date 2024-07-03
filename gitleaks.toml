@@ -172,7 +172,8 @@ description = "global allow lists"
 		"Secret\u0000:json:\\\"SessionAccessKeySecret\\\"",
 		"654321",
         "senha",
-		"MVNW_PASSWORD"
+		"MVNW_PASSWORD",
+        "351954*"
 	]
 	
 [[rules]]
