@@ -173,7 +173,8 @@ description = "global allow lists"
 		"654321",
         "senha",
 		"MVNW_PASSWORD",
-        "351954*"
+        "351954*",
+        '''(password|senha|pass|pwd)(=|:|\s+)\$\{.*?\}'''
 	]
 	
 [[rules]]
